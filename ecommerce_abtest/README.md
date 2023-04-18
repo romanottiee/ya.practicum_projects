@@ -18,3 +18,5 @@
 - Написание общих рекомендаций.
 
 Используемые библиотеки: pandas, matplotlib, datetime, numpy, scipy, warnings
+
+Статус: завершен
