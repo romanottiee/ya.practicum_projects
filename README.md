@@ -7,3 +7,4 @@
 | [Исследование причин убытков от приложения Procrastinate Pro+](procrastinatepro_metrics) | Исследование причин убытков от мобильного приложения Procrastinate Pro+ на основе расчета бизнес-показателей| *pandas, matplotlib, numpy, datetime* |
 | [Исследование гипотез для увеличения выручки интернет-магазина](ecommerce_abtest) | Исследование гипотез для увеличения выручки интернет-магазина и анализ A/B-теста| *pandas, matplotlib, datetime, numpy, scipy, warnings* |
 | [Исследование поведения пользователей мобильного приложения сервиса для продажи продуктов питания](ecommerce_abtest) | Определение узких мест в воронке продаж и анализ A/A/B-теста| *pandas, matplotlib, numpy, math, datetime, scipy, warnings* |
+| [Исследование рынка заведений общественного питания Москвы](msk_restaurants) | Изучить рынок общепита и дать рекомендации по сегменту кофеен| *pandas, seaborn, matplotlib, plotly, datetime, json, folium* |
